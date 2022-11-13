@@ -46,8 +46,9 @@ After creating the resource group, navigate back to the same search bar and type
 <br />
 
 <p>
-<img src<img src="https://i.imgur.com/feiEwo0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>="https://i.imgur.com/feiEwo0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src<img src="https://i.imgur.com/feiEwo0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<img src<img src="https://i.imgur.com/YkLUzOR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Once you have created the virtual machine, copy the public ip address and paste into remote desktop, where you will be able to begin our process installing OSTicket on our new virtual machine. You will be prompted for your Username and Password that we setup in the previous section.
 </p>
