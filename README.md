@@ -63,6 +63,31 @@ The Next step once your actually in the Virtual Machine, is to enable IIS or (In
 <br />
 
 <p>
+<img src="https://i.imgur.com/wO1wy4r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After Enabling IIS, you will need to download and install Web Platform Installer 5.1 which we will need to help us install the rest of the necessary programs needed for OSTicket. As Shown in the image above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Uu9vOqV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Shown in the image above are the files needed to be installed with Web Platform Installer
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
