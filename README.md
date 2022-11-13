@@ -104,18 +104,29 @@ Open IIS, and click the restart option in the upper right hand corner. Then brow
 <br />
 
 <p>
-<img src="https://i.imgur.com/DgnxEV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a2RVON2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Use This Link to Google Drive where the OSTicket download can be found https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+Open IIS back and click PHP manager, scroll to the bottom and click add or change extension. Make sure php_intl.dll and php_opache.dll is enabled 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DgnxEV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UXumk23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Once you have enabled all the following PHP files, refresh browser and observe the changes 
 <p>
-Use This Link to Google Drive where the OSTicket download can be found https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/GHqpfwX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Finally continue setting up the browser with chosen usernames and passwords and Congradulations you have installed OSTicket on a Virtual Machine.
+<p>
+  
+  <p>
+<img src="https://i.imgur.com/UkHCoT4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
