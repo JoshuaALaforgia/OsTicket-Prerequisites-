@@ -23,7 +23,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 1: Setup a Virtual Machine in Azure
 - Item 2: Install the osticket requirments
 - Item 3: Install osTicket itself
-- Item 4:  Do the after-installation configuration of os ticket
 
 <h2>Installation Steps</h2>
 
