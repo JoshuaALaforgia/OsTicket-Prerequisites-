@@ -79,18 +79,43 @@ Shown in the image above are the files needed to be installed with Web Platform 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DgnxEV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use This Link to Google Drive where the OSTicket download can be found https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cPYQc6K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have downloaded the zip file, extract all contents in same folder. Copy the upload file and paste into the wwwroot folder found in my pc. Once Completed, rename folder OSTicket as shown. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/0kQ88F4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS, and click the restart option in the upper right hand corner. Then browse to site,default,OSTicket. Once in OSTicket on the far right side click Browse*:80(http)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DgnxEV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Use This Link to Google Drive where the OSTicket download can be found https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DgnxEV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Use This Link to Google Drive where the OSTicket download can be found https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+</p>
+<br />
+
