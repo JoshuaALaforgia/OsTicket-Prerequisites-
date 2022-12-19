@@ -116,16 +116,16 @@ Open IIS back and click PHP manager, scroll to the bottom and click add or chang
 </p>
 Once you have enabled all the following PHP files, refresh browser and observe the changes 
 <p>
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/GHqpfwX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Finally continue setting up the browser with chosen usernames and passwords and Congratulations you have installed OSTicket on a Virtual Machine.
 <p>
   
-  <p>
+<p>
 <img src="https://i.imgur.com/UkHCoT4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
